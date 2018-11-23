@@ -34,5 +34,5 @@ tweak commands :
 
 ----------------
 
-made by myro_973
+made by myro_973 - 2018.8
 www.instagram.com/myro_973/
