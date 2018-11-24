@@ -1,9 +1,14 @@
 = chroma vybz music visualizer =
 ================================
 
-uses mic as input. 
+Animation of a flight through an animated rainbow polygon valley.
+Uses mic as input. 
 
-To use the app with any sound on your computer in windows :
+<img src="preview.gif" height=250>
+
+How to use windows sound :
+---------------
+To use the app with your sound card output as input on a windows computer :
 - go to sound settings -> record settings and use stereo mix as input.
 
 
